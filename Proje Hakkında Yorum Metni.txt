@@ -1,0 +1,23 @@
+Reva
+
+
+Basit mantık ile yenilikçi bir kredi kartı bilgileri girişi sitesi yaptım. 
+
+Zip Dosyasının içerisindedir MySQL Verileri.
+
+proccess.php (3.- 32.Satır) "PDO Bağlantısı vardır"
+
+Dosya içerisinde "kart_bilgileri" adlı SQL dosyasıdır.
+
+proccess.php 5-6 tane (8.Satır) " static  " değişkeni vardır.
+
+index_1.php (74.Satır) 2 tane " iki katlı bir ilişkisel dizi " vardır.
+
+index_1.php (64.Satır) "Random Sayı Üretici" vardır.
+
+proccess.php (32.Satır) "POST ile çalışan form" vardır.
+
+proccess.php (51.Satır) "GLOBALS Bağlantısı" vardır.
+
+proccess.php (58.Satır)"SERVERS Bağlantısı" vardır.
+ 
